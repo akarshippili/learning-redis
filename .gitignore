@@ -1,0 +1,6 @@
+/.bsp/
+target/
+
+# Ignore all hidden files and directories
+.*
+!/.gitignore
